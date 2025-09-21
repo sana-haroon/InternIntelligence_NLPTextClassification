@@ -28,7 +28,7 @@ The goal of this project is to build and evaluate an NLP model that classifies B
 ### ▶️ How to Run Locally
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/InternIntelligence_NLPTextClassification.git
+   git clone https://github.com/sana-haroon/InternIntelligence_NLPTextClassification.git
    cd InternIntelligence_NLPTextClassification
 2. Install dependencies:
    ```bash
